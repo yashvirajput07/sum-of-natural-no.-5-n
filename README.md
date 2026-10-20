@@ -1,0 +1,1 @@
+# sum-of-natural-no.-5-n
